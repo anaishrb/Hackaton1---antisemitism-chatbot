@@ -1,0 +1,13 @@
+Anais: Hate speech detector - telegram chat-bot
+
+It is a very simple project, although the code is well structured.
+The db is postgresql and the main module is Flask  
+Some of the concepts we learned were implemented but not all of them.
+The database strucutured is simple.
+the project is not working... 
+
+Python OOP:7/10
+Modules: 7/10
+Database:6/10
+JSON/API:0/10
+Overall: 6
